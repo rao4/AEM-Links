@@ -28,6 +28,19 @@
 ### Podcasts
 * [AEM Podcast](http://aempodcast.com/)
 
+### Adobe
+* [Daycare - Support Portal](http://www.day.com/daycare.html) 
+* [Adobe Nexus repo](http://repo.adobe.com/nexus/content/groups/public/org/apache/)
+* [Adobe Forums](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html) 
+* [Knowledge Base articles - Administration](http://dev.day.com/content/kb/home/cq5/CQ5SystemAdministration.html) 
+* [Adobe Certification](http://training.adobe.com/certification/exams.html#p=1&amp;product=adobe-cq) 
+* [All CQ Blogs](http://cq-ops.tumblr.com/post/34852019438/the-adobe-cq-blog-community) 
+* [Package share - new](https://www.adobeaemcloud.com/content/packageshare.html) 
+
+### CRX
+* [CRX - CRX through HTTP/REST calls](http://dev.day.com/docs/en/crx/current/developing/accessing_the_crx.html#HTTP%20Access) 
+* [CRX - How to use RMI to connect CRX from an external application](http://dev.day.com/content/kb/home/Crx/CrxDevelopment/RmiConnection.html) 
+
 ### Certification
 * [AEM 6 Devloper](https://training.adobe.com/certification/exams/aem_6_0_developer/_jcr_content/sampleExam)
 * [Tips](http://www.computepatterns.com/233/aem-6-0-architect-certification-tips/)
@@ -122,7 +135,7 @@
 ### Links
 * [Clustering - How to fix Out Of sync cluster issue CQ / CRX / WEM / ADEP](http://www.wemblog.com/2012/01/how-to-fix-out-of-sync-cluster-issue-cq.html)
 * [Clustering - How to rotate TarJournal in Shared Nothing Clustering](http://www.wemblog.com/2011/10/how-to-rotate-tarjournal-in-shared.html) 
-* [Configuring Undo for Page Editing](http://dev.day.com/docs/en/cq/current/administering/config_undo.html) 
+* [Configuring Undo for Page Editing](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/page-authoring/config-undo.html) 
 * [CQ 55 Platform Architecture Refurbish](http://www.cognifide.com/blogs/cq/cq-5-5-platform-architecture-refurbish/) 
 * [CQ GUI - How to use and debug CQ Client Library](http://www.wemblog.com/2012/01/how-to-use-and-debug-cq-client-library.html) 
 * [Curl - create pages](http://www.wemblog.com/2011/09/how-to-create-pages-using-curl-command.html) 
@@ -130,26 +143,27 @@
 * [Curl - How to manage bundle using curl command](http://www.wemblog.com/2011/12/how-to-manage-bundle-using-curl-command.html) 
 * [Curl Commands - create encoded password](http://www.wemblog.com/2012/03/how-to-create-encoded-password-that-you.html) 
 * [Curl-online backup / Datastore GC / Tar Optimization using curl in CQ5.5](http://www.wemblog.com/2012/03/how-to-run-online-backup-using-curl-in.html) 
-* [CURL - REST API Guide for Workflows](http://dev.day.com/docs/en/cq/current/developing/developing_workflows/workflows_rest_api.html) 
+* [CURL - REST API Guide for Workflows](https://docs.adobe.com/docs/en/aem/6-1/develop/extending/workflows/wf-extending/wf-rest-api.html) 
 * [Curl - Curl for packages](http://dev.day.com/docs/en/crx/current/using_crx/content_import_and.html) 
-* [DAM - Extending CQ DAM Search](http://dev.day.com/docs/en/cq/current/dam/extending-cq-dam-search.html) 
+* [DAM - Extending CQ DAM Search](https://docs.adobe.com/docs/en/aem/6-3/develop/extending/assets/searchx.html) 
 * [CQ Handy URLS](http://blogs.adobe.com/aaa/2013/02/cq-tips-and-tricks-2-handy-urls.html) 
 * [XSS Cheat Sheet](http://eyelock-cdn-blog.eyelock.net.s3.amazonaws.com/blog/wp-content/uploads/2013/05/xss_cheat_sheet.pdf) 
 * [How to Perform System Clean Up in Adobe CQ / AEM](http://www.wemblog.com/2013/05/how-to-perform-system-clean-up-in-adobe.html) 
 * [Adding a custom tab to Content Finder](https://helpx.adobe.com/cq/kb/CustomCFTab.html) 
-* [Root Mapping-projects(new UI) or OLD UI](http://dev.day.com/docs/en/cq/current/deploying/osgi_configuration_settings.html#Day%20CQ%20Root%20Mapping) 
-* [Disable/enable DAM Media Handlers in workflows](http://dev.day.com/docs/en/cq/current/dam/dam_media_handlers.html#Disabling/Enabling%20a%20Media%20Handler) 
+* [Root Mapping-projects(new UI) or OLD UI](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/osgi-configuration-settings.html#Day%20CQ%20Root%20Mapping) 
+* [Disable/enable DAM Media Handlers in workflows](https://docs.adobe.com/docs/en/aem/6-3/develop/extending/assets/media-handlers.html#Disabling/Enabling%20a%20Media%20Handler) 
 * [Dispatcher - How to flush Cache using Curl Command](http://www.wemblog.com/2011/10/how-to-flush-cache-using-curl-command.html) 
 * [Dispatcher - How to set up dynamic flushing based on path in CQ](http://www.wemblog.com/2011/09/how-to-set-up-dynamic-flushing-based-on.html) 
 * [Geometrixx - How to remove Geometrixx from CQ5.4 / WEM](http://www.wemblog.com/2012/02/how-to-remove-geometrixx-from-cq54-wem.html) 
 * [How to create package based on Xpath in CQ5 / WEM](http://www.wemblog.com/2011/11/how-to-create-package-based-on-xpath-in.html) 
 * [http and https version of site in CQ](http://www.wemblog.com/2012/01/how-to-make-http-and-https-version-of.html) 
 * [Installation - How to clone publish server](http://www.wemblog.com/2011/10/how-to-clone-publish-server.html)
-* [Integrating Services with the JMX Console](http://dev.day.com/docs/en/cq/current/developing/jmx-integration.html) 
+* [Integrating Services with the JMX Console](https://docs.adobe.com/docs/en/aem/6-3/develop/operations/jmx-integration.html) 
 * [JMX - Custom Class in JMX](http://www.wemblog.com/2012/03/how-to-expose-class-through-jmx-in-cq55.html) 
-* [Migration - Migration tasks](http://helpx.adobe.com/adobe-cq/using/migrating-data-cq.html) 
 * [OSGi Sling Service Example](http://blogs.adobe.com/kmossman/2012/04/osgi-sling-service-example.html) 
 * [OSGi- The Dynamic Module System for Java](http://aneeshkumarkb.blogspot.com/) 
+
+### unsorted
 * [Packages - How to delete packages created before certain date from package manager using curl in CQ / WEM](http://www.wemblog.com/2012/01/how-to-delete-packages-created-before.html) 
 * [Purge workflows](http://dev.day.com/content/kb/home/cq5/CQ5SystemAdministration/howtopurgewf.html) 
 * [Replication - FTP CQ Content using Static Agent](http://www.wemblog.com/2012/02/how-to-use-static-agent-in-cq-wem.html) 
@@ -226,15 +240,4 @@
 * [What is the difference between c:import, sling:include, and cq:include](http://helpx.adobe.com/cq/kb/CQIncludes.html) 
 * [Content Compare and Import tool](http://helpx.adobe.com/cq/kb/contentcompareimport.html) 
 
-### Adobe
-* [Daycare - Support Portal](http://www.day.com/daycare.html) 
-* [Adobe Nexus repo](http://repo.adobe.com/nexus/content/groups/public/org/apache/)
-* [Adobe Forums](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html) 
-* [Knowledge Base articles - Administration](http://dev.day.com/content/kb/home/cq5/CQ5SystemAdministration.html) 
-* [Adobe Certification](http://training.adobe.com/certification/exams.html#p=1&amp;product=adobe-cq) 
-* [All CQ Blogs](http://cq-ops.tumblr.com/post/34852019438/the-adobe-cq-blog-community) 
-* [Package share - new](https://www.adobeaemcloud.com/content/packageshare.html) 
 
-### CRX
-* [CRX - CRX through HTTP/REST calls](http://dev.day.com/docs/en/crx/current/developing/accessing_the_crx.html#HTTP%20Access) 
-* [CRX - How to use RMI to connect CRX from an external application](http://dev.day.com/content/kb/home/Crx/CrxDevelopment/RmiConnection.html) 
