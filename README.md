@@ -4,6 +4,7 @@
 * [OSGi](https://www.osgi.org/)
 * [Felix](http://felix.apache.org/)
 * [Sling](https://sling.apache.org/)
+* [CRX](http://jackrabbit.apache.org)
 
 ### Community
 * [docs](https://docs.adobe.com)
